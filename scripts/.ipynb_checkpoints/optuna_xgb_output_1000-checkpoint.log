@@ -1,0 +1,8 @@
+A new study created in RDB with name: nov_2021_test_1000
+Start optimization.
+start listen on 192.168.1.101:39437
+@tracker All of 4 nodes getting started
+@tracker All nodes finishes job
+Trial 0 finished with value: 0.7994931123488112 and parameters: {'objective': 'binary:logistic', 'tree_method': 'gpu_hist', 'lambda': 8.974708565486653, 'alpha': 0.2104887380166018, 'colsample_bytree': 0.41614035779077274, 'subsample': 0.8760720197603942, 'learning_rate': 0.009119465152798455, 'max_depth': 15, 'min_child_weight': 78, 'eval_metric': 'logloss'}. Best is trial 0 with value: 0.7994931123488112.
+start listen on 192.168.1.101:56525
+@tracker All of 4 nodes getting started
